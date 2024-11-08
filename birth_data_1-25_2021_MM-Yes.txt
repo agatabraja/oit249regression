@@ -1,0 +1,892 @@
+"Notes"	"County of Residence"	"County of Residence Code"	"Mother's Single Race 6"	"Mother's Single Race 6 Code"	"Mother's Pre-pregnancy BMI"	"Mother's Pre-pregnancy BMI Code"	"Pre-pregnancy Diabetes"	"Pre-pregnancy Diabetes Code"	"Pre-pregnancy Hypertension"	"Pre-pregnancy Hypertension Code"	Births	Average Age of Mother (years)	Average Birth Weight (grams)	Average Number of Prenatal Visits
+	"Etowah County, AL"	"01055"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	25.90	3528.60	7.70
+	"Jefferson County, AL"	"01073"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	32	23.91	2724.16	9.75
+	"Jefferson County, AL"	"01073"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	17	26.29	2620.53	8.82
+	"Jefferson County, AL"	"01073"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	36	30.22	3257.89	10.67
+	"Jefferson County, AL"	"01073"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	25	28.16	3288.68	9.92
+	"Lee County, AL"	"01081"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	14	28.71	3272.57	10.29
+	"Lee County, AL"	"01081"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	13	29.92	3216.46	10.08
+	"Madison County, AL"	"01089"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	11	25.82	3217.91	9.55
+	"Madison County, AL"	"01089"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	58	27.67	3398.29	10.24
+	"Madison County, AL"	"01089"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	31	29.77	3420.10	9.84
+	"Madison County, AL"	"01089"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	14	25.21	3127.43	9.00
+	"Mobile County, AL"	"01097"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	34	26.29	3445.29	10.38
+	"Mobile County, AL"	"01097"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	16	27.38	3106.56	10.12
+	"Morgan County, AL"	"01103"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	17	26.71	3195.18	10.18
+	"Morgan County, AL"	"01103"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	26	25.35	3261.50	8.23
+	"Unidentified Counties, AL"	"01999"	"Black or African American"	"2054-5"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	12	22.83	2983.83	10.00
+	"Unidentified Counties, AL"	"01999"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	35	23.69	2789.29	9.14
+	"Unidentified Counties, AL"	"01999"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	21	25.29	3216.67	11.00
+	"Unidentified Counties, AL"	"01999"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	18	26.89	3204.17	10.72
+	"Unidentified Counties, AL"	"01999"	"Black or African American"	"2054-5"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	10	26.70	3154.40	9.70
+	"Unidentified Counties, AL"	"01999"	"White"	"2106-3"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	19	22.32	3287.79	9.68
+	"Unidentified Counties, AL"	"01999"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	153	26.31	3243.23	10.65
+	"Unidentified Counties, AL"	"01999"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	87	27.18	3324.48	10.03
+	"Unidentified Counties, AL"	"01999"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	67	27.57	3117.15	9.98
+	"Unidentified Counties, AL"	"01999"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	26	27.65	3336.96	10.31
+	"Unidentified Counties, AL"	"01999"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	21	29.24	3457.48	12.65
+	"Anchorage Borough, AK"	"02020"	"American Indian or Alaska Native"	"1002-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	14	24.64	3433.57	8.07
+	"Anchorage Borough, AK"	"02020"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	30	31.13	3503.00	11.04
+	"Anchorage Borough, AK"	"02020"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	16	30.81	3436.06	11.80
+	"Unidentified Counties, AK"	"02999"	"American Indian or Alaska Native"	"1002-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	47	24.79	3234.00	10.36
+	"Unidentified Counties, AK"	"02999"	"American Indian or Alaska Native"	"1002-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	36	27.61	3401.44	10.51
+	"Unidentified Counties, AK"	"02999"	"American Indian or Alaska Native"	"1002-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	13	27.38	3335.77	10.15
+	"Unidentified Counties, AK"	"02999"	"American Indian or Alaska Native"	"1002-5"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	11	27.18	3842.18	12.45
+	"Unidentified Counties, AK"	"02999"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	49	29.94	3623.78	10.02
+	"Unidentified Counties, AK"	"02999"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	41	28.88	3451.15	11.79
+	"Unidentified Counties, AK"	"02999"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	16	29.94	3687.75	11.69
+	"Unidentified Counties, AK"	"02999"	"More than one race"	"M"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	10	29.00	3110.40	10.10
+	"Unidentified Counties, AK"	"02999"	"More than one race"	"M"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	15	27.73	3332.20	9.53
+	"Cochise County, AZ"	"04003"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	13	28.38	3358.15	8.85
+	"Coconino County, AZ"	"04005"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	12	26.58	3023.33	9.36
+	"Maricopa County, AZ"	"04013"	"American Indian or Alaska Native"	"1002-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	10	25.00	3533.90	10.50
+	"Maricopa County, AZ"	"04013"	"American Indian or Alaska Native"	"1002-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	16	24.50	3135.50	8.12
+	"Maricopa County, AZ"	"04013"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	77	31.21	3277.06	11.74
+	"Maricopa County, AZ"	"04013"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	28	31.43	3162.86	12.96
+	"Maricopa County, AZ"	"04013"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	35	28.06	3126.80	9.49
+	"Maricopa County, AZ"	"04013"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	19	30.00	2836.84	8.17
+	"Maricopa County, AZ"	"04013"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	19	28.32	2532.95	10.56
+	"Maricopa County, AZ"	"04013"	"White"	"2106-3"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	31	26.48	2924.55	9.47
+	"Maricopa County, AZ"	"04013"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	331	28.12	3293.71	10.84
+	"Maricopa County, AZ"	"04013"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	230	28.73	3292.20	11.28
+	"Maricopa County, AZ"	"04013"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	127	29.90	3265.91	11.13
+	"Maricopa County, AZ"	"04013"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	49	27.71	3176.33	10.57
+	"Maricopa County, AZ"	"04013"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	31	30.19	2659.81	9.43
+	"Maricopa County, AZ"	"04013"	"White"	"2106-3"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	13	29.46	2686.46	3.00
+	"Navajo County, AZ"	"04017"	"American Indian or Alaska Native"	"1002-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	11	23.09	3259.18	8.44
+	"Navajo County, AZ"	"04017"	"American Indian or Alaska Native"	"1002-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	27.30	3003.10	7.40
+	"Pima County, AZ"	"04019"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	10	32.10	3407.70	11.30
+	"Pima County, AZ"	"04019"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	87	29.13	3145.13	10.31
+	"Pima County, AZ"	"04019"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	51	30.53	3108.98	8.78
+	"Pima County, AZ"	"04019"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	33	26.70	3459.55	10.27
+	"Pima County, AZ"	"04019"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	16	27.62	3062.94	9.19
+	"Pima County, AZ"	"04019"	"White"	"2106-3"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	10	27.50	1903.30	6.89
+	"Pinal County, AZ"	"04021"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	38	27.76	3189.08	9.97
+	"Pinal County, AZ"	"04021"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	29	28.86	3418.71	13.31
+	"Pinal County, AZ"	"04021"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	10	28.50	3377.70	11.70
+	"Yavapai County, AZ"	"04025"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	15	30.60	3219.40	12.00
+	"Yuma County, AZ"	"04027"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	49	26.10	3113.12	7.62
+	"Yuma County, AZ"	"04027"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	33	27.88	3355.94	9.36
+	"Yuma County, AZ"	"04027"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	28	27.46	3501.86	8.89
+	"Yuma County, AZ"	"04027"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	14	28.64	2932.86	8.29
+	"Unidentified Counties, AZ"	"04999"	"American Indian or Alaska Native"	"1002-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	11	24.09	3198.91	5.45
+	"Unidentified Counties, AZ"	"04999"	"American Indian or Alaska Native"	"1002-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	11	27.64	3205.82	7.27
+	"Unidentified Counties, AZ"	"04999"	"American Indian or Alaska Native"	"1002-5"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	10	27.60	3259.00	6.30
+	"Unidentified Counties, AZ"	"04999"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	15	28.40	3336.36	7.73
+	"Unidentified Counties, AZ"	"04999"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	21	29.19	3188.81	9.40
+	"Benton County, AR"	"05007"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	29.80	3090.00	10.60
+	"Benton County, AR"	"05007"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	42	27.05	3634.64	10.79
+	"Benton County, AR"	"05007"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	21	28.19	3447.05	10.38
+	"Benton County, AR"	"05007"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	10	29.00	3190.40	10.90
+	"Faulkner County, AR"	"05045"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	13	28.15	3351.46	11.23
+	"Pulaski County, AR"	"05119"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	17	23.71	3086.76	10.88
+	"Pulaski County, AR"	"05119"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	11	24.55	3193.36	10.64
+	"Pulaski County, AR"	"05119"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	35	29.83	3467.11	11.71
+	"Pulaski County, AR"	"05119"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	25	29.96	3485.76	11.52
+	"Pulaski County, AR"	"05119"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	13	28.31	3532.77	11.00
+	"Saline County, AR"	"05125"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	16	27.25	3166.25	12.50
+	"Washington County, AR"	"05143"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	33	29.36	3443.61	11.16
+	"Washington County, AR"	"05143"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	16	29.44	3180.00	8.69
+	"Washington County, AR"	"05143"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	14	30.36	3672.50	10.00
+	"Unidentified Counties, AR"	"05999"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	34	23.71	3034.24	8.29
+	"Unidentified Counties, AR"	"05999"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	20	24.55	3093.45	9.10
+	"Unidentified Counties, AR"	"05999"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	10	23.40	2942.50	7.20
+	"Unidentified Counties, AR"	"05999"	"Black or African American"	"2054-5"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	11	26.91	2736.55	9.27
+	"Unidentified Counties, AR"	"05999"	"Black or African American"	"2054-5"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	11	27.91	2837.73	9.00
+	"Unidentified Counties, AR"	"05999"	"White"	"2106-3"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	17	23.71	3129.12	12.35
+	"Unidentified Counties, AR"	"05999"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	161	26.12	3367.30	10.65
+	"Unidentified Counties, AR"	"05999"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	93	25.90	3485.24	10.52
+	"Unidentified Counties, AR"	"05999"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	60	26.88	3310.95	11.25
+	"Unidentified Counties, AR"	"05999"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	32	26.22	3503.34	11.03
+	"Unidentified Counties, AR"	"05999"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	26	25.08	3450.04	10.92
+	"Alameda County, CA"	"06001"	"Asian"	"A"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	17	31.41	2995.06	9.06
+	"Alameda County, CA"	"06001"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	227	32.64	3310.14	10.33
+	"Alameda County, CA"	"06001"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	94	32.68	3220.56	9.85
+	"Alameda County, CA"	"06001"	"Asian"	"A"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	22	32.59	3355.55	11.41
+	"Alameda County, CA"	"06001"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	87	30.69	3508.01	10.39
+	"Alameda County, CA"	"06001"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	67	32.04	3518.67	10.21
+	"Alameda County, CA"	"06001"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	22	31.95	3454.59	10.36
+	"Alameda County, CA"	"06001"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	12	34.17	3422.42	8.67
+	"Butte County, CA"	"06007"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	24	28.96	3568.17	11.79
+	"Butte County, CA"	"06007"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	11	29.73	3386.73	11.00
+	"Contra Costa County, CA"	"06013"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	60	32.62	3176.22	11.02
+	"Contra Costa County, CA"	"06013"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	29	32.90	3280.48	11.45
+	"Contra Costa County, CA"	"06013"	"Asian"	"A"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	15	32.67	3428.80	12.00
+	"Contra Costa County, CA"	"06013"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	98	31.58	3368.26	11.40
+	"Contra Costa County, CA"	"06013"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	57	30.28	3623.42	11.19
+	"Contra Costa County, CA"	"06013"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	33	29.91	3463.94	10.27
+	"El Dorado County, CA"	"06017"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	21	30.14	3688.29	10.00
+	"El Dorado County, CA"	"06017"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	17	32.06	3175.71	10.12
+	"Fresno County, CA"	"06019"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	29	31.62	3144.66	12.00
+	"Fresno County, CA"	"06019"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	15	32.20	3208.27	13.47
+	"Fresno County, CA"	"06019"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	60	28.55	3122.95	12.97
+	"Fresno County, CA"	"06019"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	51	29.02	3342.41	12.69
+	"Fresno County, CA"	"06019"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	34	28.38	3253.97	11.44
+	"Fresno County, CA"	"06019"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	17	27.65	3101.47	11.81
+	"Fresno County, CA"	"06019"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	14	33.21	3396.79	14.57
+	"Fresno County, CA"	"06019"	"White"	"2106-3"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	12	25.58	2643.33	6.00
+	"Humboldt County, CA"	"06023"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	17	33.53	3213.59	11.71
+	"Humboldt County, CA"	"06023"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	11	31.00	3790.64	10.64
+	"Kern County, CA"	"06029"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	11	31.18	3153.09	12.73
+	"Kern County, CA"	"06029"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	27	27.44	3404.81	12.76
+	"Kern County, CA"	"06029"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	36	29.67	3323.58	10.47
+	"Kern County, CA"	"06029"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	23	27.83	3116.96	12.50
+	"Kern County, CA"	"06029"	"White"	"2106-3"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	33	29.24	3147.42	13.07
+	"Los Angeles County, CA"	"06037"	"Asian"	"A"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	17	32.82	3083.94	11.12
+	"Los Angeles County, CA"	"06037"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	195	33.89	3215.83	12.32
+	"Los Angeles County, CA"	"06037"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	60	33.38	3012.32	12.12
+	"Los Angeles County, CA"	"06037"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	34	28.06	2890.00	10.35
+	"Los Angeles County, CA"	"06037"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	28	27.21	2414.64	8.58
+	"Los Angeles County, CA"	"06037"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	15	28.93	2615.47	9.73
+	"Los Angeles County, CA"	"06037"	"Black or African American"	"2054-5"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	12	30.25	3083.83	9.42
+	"Los Angeles County, CA"	"06037"	"White"	"2106-3"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	25	26.56	2932.40	11.88
+	"Los Angeles County, CA"	"06037"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	391	30.53	3236.94	11.77
+	"Los Angeles County, CA"	"06037"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	264	30.03	3217.62	11.30
+	"Los Angeles County, CA"	"06037"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	145	31.39	3146.71	12.53
+	"Los Angeles County, CA"	"06037"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	51	30.16	3185.00	11.84
+	"Los Angeles County, CA"	"06037"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	33	31.91	3226.45	12.72
+	"Los Angeles County, CA"	"06037"	"White"	"2106-3"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	33	30.58	2696.06	9.58
+	"Los Angeles County, CA"	"06037"	"More than one race"	"M"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	16	34.00	3138.50	10.06
+	"Marin County, CA"	"06041"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	32	33.19	3363.41	11.34
+	"Marin County, CA"	"06041"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	13	32.69	3596.69	9.62
+	"Merced County, CA"	"06047"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	15	23.33	2932.60	11.80
+	"Merced County, CA"	"06047"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	16	28.38	3195.25	13.93
+	"Monterey County, CA"	"06053"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	58	28.29	3412.33	12.33
+	"Monterey County, CA"	"06053"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	49	28.67	3282.73	11.61
+	"Monterey County, CA"	"06053"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	13	29.23	3416.31	11.31
+	"Monterey County, CA"	"06053"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	13	30.85	3429.31	11.31
+	"Napa County, CA"	"06055"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	18	32.89	3362.22	10.67
+	"Orange County, CA"	"06059"	"Asian"	"A"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	17	33.00	3022.94	14.18
+	"Orange County, CA"	"06059"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	109	33.61	3172.23	13.88
+	"Orange County, CA"	"06059"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	22	33.00	3314.14	14.55
+	"Orange County, CA"	"06059"	"White"	"2106-3"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	19	30.11	2862.32	14.21
+	"Orange County, CA"	"06059"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	231	31.46	3332.82	13.96
+	"Orange County, CA"	"06059"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	88	30.74	3487.82	13.16
+	"Orange County, CA"	"06059"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	36	31.97	3543.94	14.83
+	"Orange County, CA"	"06059"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	17	30.47	3421.71	11.41
+	"Orange County, CA"	"06059"	"White"	"2106-3"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	14	25.43	2125.36	3.20
+	"Orange County, CA"	"06059"	"More than one race"	"M"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	11	30.82	3527.00	16.18
+	"Placer County, CA"	"06061"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	25	31.68	3171.56	10.36
+	"Placer County, CA"	"06061"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	53	32.25	3430.25	11.49
+	"Placer County, CA"	"06061"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	27	29.59	3650.78	11.07
+	"Placer County, CA"	"06061"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	19	31.95	3527.21	13.37
+	"Riverside County, CA"	"06065"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	14	32.64	2882.50	11.14
+	"Riverside County, CA"	"06065"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	69	29.29	3232.13	12.32
+	"Riverside County, CA"	"06065"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	59	30.51	3012.93	12.09
+	"Riverside County, CA"	"06065"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	30	30.80	3174.00	10.77
+	"Riverside County, CA"	"06065"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	15	30.07	3015.87	12.53
+	"Sacramento County, CA"	"06067"	"Asian"	"A"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	15	31.87	3241.47	11.07
+	"Sacramento County, CA"	"06067"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	88	31.38	3280.17	10.05
+	"Sacramento County, CA"	"06067"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	45	30.87	3297.69	11.76
+	"Sacramento County, CA"	"06067"	"Asian"	"A"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	11	32.45	3005.73	14.27
+	"Sacramento County, CA"	"06067"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	13	29.46	3055.15	9.83
+	"Sacramento County, CA"	"06067"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	30.80	3266.50	11.00
+	"Sacramento County, CA"	"06067"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	159	29.52	3494.19	10.78
+	"Sacramento County, CA"	"06067"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	121	30.03	3503.46	10.23
+	"Sacramento County, CA"	"06067"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	32	30.47	3427.62	10.38
+	"Sacramento County, CA"	"06067"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	24	30.00	3593.46	9.71
+	"Sacramento County, CA"	"06067"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	17	31.00	3223.00	10.18
+	"Sacramento County, CA"	"06067"	"More than one race"	"M"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	14	29.93	3582.86	10.00
+	"Sacramento County, CA"	"06067"	"More than one race"	"M"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	21	29.48	3061.43	8.00
+	"San Bernardino County, CA"	"06071"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	21	32.00	3220.29	14.05
+	"San Bernardino County, CA"	"06071"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	31.80	3274.00	12.40
+	"San Bernardino County, CA"	"06071"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	20	24.55	2821.10	8.89
+	"San Bernardino County, CA"	"06071"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	16	28.38	3189.81	10.06
+	"San Bernardino County, CA"	"06071"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	13	31.00	2416.54	7.92
+	"San Bernardino County, CA"	"06071"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	123	27.38	3190.37	11.99
+	"San Bernardino County, CA"	"06071"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	87	28.89	3104.62	12.17
+	"San Bernardino County, CA"	"06071"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	64	29.00	2982.97	11.07
+	"San Bernardino County, CA"	"06071"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	16	29.19	3354.94	11.31
+	"San Bernardino County, CA"	"06071"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	18	32.44	3160.61	10.18
+	"San Bernardino County, CA"	"06071"	"White"	"2106-3"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	11	29.82	2098.82	3.67
+	"San Diego County, CA"	"06073"	"Asian"	"A"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	10	32.20	3180.00	14.10
+	"San Diego County, CA"	"06073"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	114	32.85	3280.04	13.62
+	"San Diego County, CA"	"06073"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	28	32.50	3374.89	12.32
+	"San Diego County, CA"	"06073"	"Asian"	"A"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	10	32.90	3215.00	14.00
+	"San Diego County, CA"	"06073"	"White"	"2106-3"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	12	31.75	3054.17	13.25
+	"San Diego County, CA"	"06073"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	249	31.41	3428.41	13.40
+	"San Diego County, CA"	"06073"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	152	30.18	3471.59	12.47
+	"San Diego County, CA"	"06073"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	61	30.77	3291.75	11.30
+	"San Diego County, CA"	"06073"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	15	30.27	3694.07	10.67
+	"San Diego County, CA"	"06073"	"White"	"2106-3"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	11	28.73	3145.09	8.91
+	"San Francisco County, CA"	"06075"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	137	34.18	3307.19	11.25
+	"San Francisco County, CA"	"06075"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	23	35.13	3296.74	10.70
+	"San Francisco County, CA"	"06075"	"White"	"2106-3"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	10	35.20	2711.50	11.00
+	"San Francisco County, CA"	"06075"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	161	33.87	3467.48	11.39
+	"San Francisco County, CA"	"06075"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	38	34.32	3406.87	12.21
+	"San Francisco County, CA"	"06075"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	10	32.20	3456.30	10.40
+	"San Joaquin County, CA"	"06077"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	25	29.64	3188.56	12.28
+	"San Joaquin County, CA"	"06077"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	12	31.92	3136.17	11.90
+	"San Joaquin County, CA"	"06077"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	39	28.69	3383.03	12.36
+	"San Joaquin County, CA"	"06077"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	27	29.00	3327.37	9.59
+	"San Joaquin County, CA"	"06077"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	21	29.10	3379.76	13.35
+	"San Joaquin County, CA"	"06077"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	10	32.10	3345.10	11.89
+	"San Luis Obispo County, CA"	"06079"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	47	31.60	3400.66	14.52
+	"San Luis Obispo County, CA"	"06079"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	18	31.72	3345.83	12.44
+	"San Mateo County, CA"	"06081"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	89	33.12	3270.87	10.69
+	"San Mateo County, CA"	"06081"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	34	33.03	3131.56	10.12
+	"San Mateo County, CA"	"06081"	"Asian"	"A"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	10	32.90	3324.30	12.60
+	"San Mateo County, CA"	"06081"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	82	31.96	3469.45	10.37
+	"San Mateo County, CA"	"06081"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	30	31.43	3460.00	9.90
+	"San Mateo County, CA"	"06081"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	16	30.88	3516.44	11.31
+	"Santa Barbara County, CA"	"06083"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	76	29.18	3272.86	12.05
+	"Santa Barbara County, CA"	"06083"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	44	28.73	3383.66	11.68
+	"Santa Barbara County, CA"	"06083"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	22	29.14	3168.95	11.55
+	"Santa Clara County, CA"	"06085"	"Asian"	"A"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	38	32.74	3180.95	11.29
+	"Santa Clara County, CA"	"06085"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	417	32.12	3228.75	10.54
+	"Santa Clara County, CA"	"06085"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	122	32.04	3321.98	9.90
+	"Santa Clara County, CA"	"06085"	"Asian"	"A"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	36	33.42	3348.06	10.69
+	"Santa Clara County, CA"	"06085"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	153	31.41	3375.94	10.48
+	"Santa Clara County, CA"	"06085"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	69	30.45	3483.29	10.91
+	"Santa Clara County, CA"	"06085"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	34	31.53	3493.41	9.85
+	"Santa Clara County, CA"	"06085"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	18	29.39	3247.00	12.06
+	"Santa Cruz County, CA"	"06087"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	17	31.00	3511.00	11.76
+	"Santa Cruz County, CA"	"06087"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	11	34.36	3694.18	13.20
+	"Shasta County, CA"	"06089"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	13	26.77	3247.69	10.67
+	"Solano County, CA"	"06095"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	46	30.17	3166.87	8.65
+	"Solano County, CA"	"06095"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	40	30.02	3486.88	9.97
+	"Solano County, CA"	"06095"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	60	29.72	3572.15	9.65
+	"Solano County, CA"	"06095"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	21	31.14	3693.14	9.67
+	"Solano County, CA"	"06095"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	12	30.25	3806.33	11.92
+	"Sonoma County, CA"	"06097"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	13	33.15	3395.00	10.38
+	"Sonoma County, CA"	"06097"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	51	32.02	3478.49	10.04
+	"Sonoma County, CA"	"06097"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	47	31.13	3473.34	10.74
+	"Sonoma County, CA"	"06097"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	19	31.74	3612.95	9.89
+	"Sonoma County, CA"	"06097"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	14	28.71	3655.64	11.00
+	"Stanislaus County, CA"	"06099"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	33	28.61	3360.52	10.97
+	"Stanislaus County, CA"	"06099"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	26	30.19	3591.65	11.69
+	"Stanislaus County, CA"	"06099"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	11	28.27	3574.45	11.91
+	"Ventura County, CA"	"06111"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	18	33.78	3252.56	10.17
+	"Ventura County, CA"	"06111"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	97	27.40	3395.38	11.19
+	"Ventura County, CA"	"06111"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	68	28.28	3355.41	10.79
+	"Ventura County, CA"	"06111"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	34	29.76	3159.91	9.88
+	"Ventura County, CA"	"06111"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	11	27.45	3277.27	11.45
+	"Yolo County, CA"	"06113"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	13	31.69	3238.15	10.62
+	"Yolo County, CA"	"06113"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	21	31.00	3475.86	11.38
+	"Yolo County, CA"	"06113"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	19	29.58	3455.68	10.42
+	"Unidentified Counties, CA"	"06999"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	14	32.93	3136.50	11.86
+	"Unidentified Counties, CA"	"06999"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	91	29.02	3409.68	10.77
+	"Unidentified Counties, CA"	"06999"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	58	30.47	3327.16	11.81
+	"Unidentified Counties, CA"	"06999"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	31	29.35	3588.55	12.52
+	"Adams County, CO"	"08001"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	16	30.81	2948.87	9.62
+	"Adams County, CO"	"08001"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	46	28.07	3065.48	9.35
+	"Adams County, CO"	"08001"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	31	28.58	3115.58	8.77
+	"Adams County, CO"	"08001"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	21	27.10	3282.05	9.62
+	"Adams County, CO"	"08001"	"White"	"2106-3"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	10	24.90	3160.50	7.00
+	"Arapahoe County, CO"	"08005"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	23	31.13	3124.23	10.83
+	"Arapahoe County, CO"	"08005"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	22	31.27	3244.00	10.55
+	"Arapahoe County, CO"	"08005"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	20	30.30	3392.00	9.30
+	"Arapahoe County, CO"	"08005"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	67	29.28	3282.79	10.58
+	"Arapahoe County, CO"	"08005"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	38	29.53	3190.66	9.82
+	"Arapahoe County, CO"	"08005"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	31	31.13	3311.03	12.40
+	"Boulder County, CO"	"08013"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	11	31.91	3238.55	9.91
+	"Boulder County, CO"	"08013"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	33	32.24	3381.70	10.12
+	"Boulder County, CO"	"08013"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	14	28.57	3168.93	9.93
+	"Denver County, CO"	"08031"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	22	29.95	3181.86	9.41
+	"Denver County, CO"	"08031"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	20	27.60	2810.90	11.50
+	"Denver County, CO"	"08031"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	15	29.87	3184.27	10.60
+	"Denver County, CO"	"08031"	"White"	"2106-3"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	15	25.53	3297.80	8.93
+	"Denver County, CO"	"08031"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	115	30.70	3253.58	10.95
+	"Denver County, CO"	"08031"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	53	29.74	3246.66	11.43
+	"Denver County, CO"	"08031"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	27	29.00	3255.00	11.30
+	"Denver County, CO"	"08031"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	15	27.47	3574.33	10.27
+	"Denver County, CO"	"08031"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	10	29.30	3252.50	9.80
+	"Denver County, CO"	"08031"	"White"	"2106-3"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	13	27.00	2884.15	4.09
+	"Douglas County, CO"	"08035"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	27	30.15	3155.74	10.74
+	"Douglas County, CO"	"08035"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	18	31.28	3257.44	11.28
+	"El Paso County, CO"	"08041"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	56	28.20	3147.79	9.79
+	"El Paso County, CO"	"08041"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	24	29.08	3319.54	10.46
+	"El Paso County, CO"	"08041"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	15	31.80	3335.73	10.27
+	"Jefferson County, CO"	"08059"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	57	31.65	3276.19	10.39
+	"Jefferson County, CO"	"08059"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	34	30.41	3429.76	9.44
+	"Larimer County, CO"	"08069"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	32	30.56	3375.28	12.97
+	"Larimer County, CO"	"08069"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	18	30.50	3290.39	10.56
+	"Pueblo County, CO"	"08101"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	13	24.92	3358.38	12.62
+	"Weld County, CO"	"08123"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	49	28.65	3359.84	11.86
+	"Weld County, CO"	"08123"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	29	29.93	3460.93	10.45
+	"Weld County, CO"	"08123"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	19	29.84	3185.47	13.16
+	"Unidentified Counties, CO"	"08999"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	113	28.50	3214.53	11.08
+	"Unidentified Counties, CO"	"08999"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	61	29.95	3138.30	9.97
+	"Unidentified Counties, CO"	"08999"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	36	29.97	3145.22	10.67
+	"Unidentified Counties, CO"	"08999"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	15	27.00	3463.00	12.53
+	"Unidentified Counties, CO"	"08999"	"White"	"2106-3"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	15	28.80	3008.33	7.57
+	"Fairfield County, CT"	"09001"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	28	32.57	3155.14	12.57
+	"Fairfield County, CT"	"09001"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	12	31.75	3539.50	14.75
+	"Fairfield County, CT"	"09001"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	13	29.38	3181.69	13.85
+	"Fairfield County, CT"	"09001"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	145	32.22	3408.18	13.32
+	"Fairfield County, CT"	"09001"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	47	30.36	3384.89	13.47
+	"Fairfield County, CT"	"09001"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	13	35.31	3492.92	12.46
+	"Hartford County, CT"	"09003"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	16	29.69	3222.88	10.94
+	"Hartford County, CT"	"09003"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	58	31.38	3370.41	11.59
+	"Hartford County, CT"	"09003"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	28	30.07	3291.11	11.30
+	"Hartford County, CT"	"09003"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	14	31.14	3117.64	12.64
+	"Litchfield County, CT"	"09005"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	16	30.06	3412.06	14.00
+	"Litchfield County, CT"	"09005"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	12	30.25	3483.00	13.67
+	"Middlesex County, CT"	"09007"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	10	30.10	2911.50	10.90
+	"New Haven County, CT"	"09009"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	16	29.38	3248.62	11.56
+	"New Haven County, CT"	"09009"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	17	28.00	2872.53	12.87
+	"New Haven County, CT"	"09009"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	18	26.72	3327.22	13.56
+	"New Haven County, CT"	"09009"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	11	32.00	3090.64	13.36
+	"New Haven County, CT"	"09009"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	87	30.72	3142.22	11.92
+	"New Haven County, CT"	"09009"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	43	32.49	3282.49	13.14
+	"New Haven County, CT"	"09009"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	15	30.73	3394.73	12.07
+	"New Haven County, CT"	"09009"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	13	33.46	3520.15	14.38
+	"New London County, CT"	"09011"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	41	30.59	3120.71	12.95
+	"New London County, CT"	"09011"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	24	29.29	3190.46	12.38
+	"New London County, CT"	"09011"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	11	30.73	3529.27	12.73
+	"Tolland County, CT"	"09013"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	10	32.80	3738.40	11.60
+	"Windham County, CT"	"09015"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	10	26.80	3499.50	12.30
+	"Windham County, CT"	"09015"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	15	33.67	3270.13	12.00
+	"Kent County, DE"	"10001"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	18	28.22	3297.72	10.94
+	"New Castle County, DE"	"10003"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	31	30.55	3336.77	13.32
+	"New Castle County, DE"	"10003"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	17	29.41	3260.59	12.12
+	"New Castle County, DE"	"10003"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	23	26.61	3152.61	9.70
+	"New Castle County, DE"	"10003"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	17	27.24	3253.53	9.47
+	"New Castle County, DE"	"10003"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	60	30.37	3361.71	10.66
+	"New Castle County, DE"	"10003"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	47	30.77	3341.77	10.28
+	"New Castle County, DE"	"10003"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	24	30.92	3494.88	11.54
+	"Sussex County, DE"	"10005"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	28	27.43	3384.89	9.50
+	"Sussex County, DE"	"10005"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	15	27.53	3479.73	8.80
+	"Sussex County, DE"	"10005"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	13	33.31	3441.08	9.85
+	"District of Columbia, DC"	"11001"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	17	33.94	3266.65	10.24
+	"District of Columbia, DC"	"11001"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	35	30.40	2881.83	8.71
+	"District of Columbia, DC"	"11001"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	19	33.11	3391.37	12.00
+	"District of Columbia, DC"	"11001"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	133	33.71	3408.08	11.51
+	"District of Columbia, DC"	"11001"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	31	33.35	3514.29	11.10
+	"District of Columbia, DC"	"11001"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	14	32.71	3107.43	10.18
+	"Brevard County, FL"	"12009"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	28	28.93	3323.32	9.29
+	"Brevard County, FL"	"12009"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	17	29.41	3193.59	8.82
+	"Broward County, FL"	"12011"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	23	28.74	2762.65	8.27
+	"Broward County, FL"	"12011"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	31.60	2423.00	8.40
+	"Broward County, FL"	"12011"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	43	32.63	3094.58	11.52
+	"Broward County, FL"	"12011"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	20	32.25	3473.20	10.90
+	"Broward County, FL"	"12011"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	11	32.09	2819.91	10.75
+	"Clay County, FL"	"12019"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	15	27.07	3184.87	10.14
+	"Collier County, FL"	"12021"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	28	29.64	3546.29	10.61
+	"Collier County, FL"	"12021"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	11	30.45	3740.55	12.18
+	"Duval County, FL"	"12031"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	18	31.06	3038.28	10.78
+	"Duval County, FL"	"12031"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	32.00	3031.70	9.40
+	"Duval County, FL"	"12031"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	19	26.32	3138.68	6.63
+	"Duval County, FL"	"12031"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	23	28.65	2931.83	9.73
+	"Duval County, FL"	"12031"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	12	29.42	2941.33	8.42
+	"Duval County, FL"	"12031"	"Black or African American"	"2054-5"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	12	28.33	2939.75	6.40
+	"Duval County, FL"	"12031"	"Black or African American"	"2054-5"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	14	28.86	2545.29	3.67
+	"Duval County, FL"	"12031"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	68	29.01	3345.19	10.63
+	"Duval County, FL"	"12031"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	38	29.97	3354.16	10.11
+	"Duval County, FL"	"12031"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	16	29.19	3370.44	8.25
+	"Duval County, FL"	"12031"	"White"	"2106-3"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	21	31.52	2734.71	4.92
+	"Hillsborough County, FL"	"12057"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	23	33.13	2737.09	11.26
+	"Hillsborough County, FL"	"12057"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	15	27.67	2323.73	9.21
+	"Hillsborough County, FL"	"12057"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	15	28.67	2778.87	8.87
+	"Hillsborough County, FL"	"12057"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	143	29.72	3340.73	12.14
+	"Hillsborough County, FL"	"12057"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	46	31.72	3242.93	10.60
+	"Hillsborough County, FL"	"12057"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	27	32.89	3237.74	11.31
+	"Hillsborough County, FL"	"12057"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	10	33.00	3371.60	11.40
+	"Lake County, FL"	"12069"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	10	27.40	3258.90	10.44
+	"Lake County, FL"	"12069"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	14	27.14	3580.36	11.00
+	"Lee County, FL"	"12071"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	29	28.55	3195.76	9.86
+	"Lee County, FL"	"12071"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	14	30.50	3461.00	10.21
+	"Manatee County, FL"	"12081"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	20	29.30	3633.10	12.35
+	"Martin County, FL"	"12085"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	12	31.00	3427.83	10.50
+	"Miami-Dade County, FL"	"12086"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	17	33.12	3355.76	10.88
+	"Miami-Dade County, FL"	"12086"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	19	24.47	2960.58	10.05
+	"Miami-Dade County, FL"	"12086"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	23	32.39	3010.57	9.65
+	"Miami-Dade County, FL"	"12086"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	10	28.70	2990.44	10.10
+	"Miami-Dade County, FL"	"12086"	"White"	"2106-3"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	21	28.90	3176.62	10.38
+	"Miami-Dade County, FL"	"12086"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	340	31.10	3245.65	11.00
+	"Miami-Dade County, FL"	"12086"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	199	30.30	3259.58	10.61
+	"Miami-Dade County, FL"	"12086"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	62	31.35	3239.13	11.85
+	"Miami-Dade County, FL"	"12086"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	12	28.83	2992.08	8.42
+	"Okaloosa County, FL"	"12091"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	28	28.25	3289.68	13.00
+	"Orange County, FL"	"12095"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	12	32.67	3194.42	9.36
+	"Orange County, FL"	"12095"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	24	27.67	3163.46	7.00
+	"Orange County, FL"	"12095"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	24	29.79	2985.58	5.38
+	"Orange County, FL"	"12095"	"Black or African American"	"2054-5"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	21	29.62	2885.19	4.00
+	"Orange County, FL"	"12095"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	68	30.94	3347.60	9.10
+	"Orange County, FL"	"12095"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	59	30.02	3140.58	8.16
+	"Orange County, FL"	"12095"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	21	29.71	3316.19	9.33
+	"Orange County, FL"	"12095"	"White"	"2106-3"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	27	29.22	2945.67	4.67
+	"Osceola County, FL"	"12097"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	20	28.95	3230.55	11.60
+	"Palm Beach County, FL"	"12099"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	28	29.82	2967.25	9.48
+	"Palm Beach County, FL"	"12099"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	38	31.68	3020.21	9.03
+	"Palm Beach County, FL"	"12099"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	20	32.40	3082.65	10.35
+	"Palm Beach County, FL"	"12099"	"Black or African American"	"2054-5"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	10	32.90	3097.90	8.90
+	"Palm Beach County, FL"	"12099"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	71	29.77	3213.03	11.33
+	"Palm Beach County, FL"	"12099"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	39	31.33	3319.05	10.56
+	"Palm Beach County, FL"	"12099"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	17	30.18	3324.35	8.47
+	"Palm Beach County, FL"	"12099"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	10	28.70	2789.80	7.90
+	"Pasco County, FL"	"12101"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	30	29.83	3250.62	10.90
+	"Pasco County, FL"	"12101"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	19	27.89	3344.68	10.32
+	"Pasco County, FL"	"12101"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	15	31.27	3179.47	13.13
+	"Pinellas County, FL"	"12103"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	59	30.54	3489.31	11.46
+	"Pinellas County, FL"	"12103"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	15	32.40	3614.93	12.73
+	"Pinellas County, FL"	"12103"	"White"	"2106-3"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	14	30.36	1975.38	3.00
+	"Polk County, FL"	"12105"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	18	26.61	3275.22	8.75
+	"Polk County, FL"	"12105"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	14	25.86	3243.23	9.21
+	"St. Johns County, FL"	"12109"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	19	30.95	3504.74	10.44
+	"St. Johns County, FL"	"12109"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	12	30.08	3413.50	10.58
+	"Santa Rosa County, FL"	"12113"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	11	26.91	3465.36	11.36
+	"Sarasota County, FL"	"12115"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	21	29.43	3597.81	14.38
+	"Sarasota County, FL"	"12115"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	11	30.27	3608.27	13.27
+	"Seminole County, FL"	"12117"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	28	30.46	3037.46	8.96
+	"Seminole County, FL"	"12117"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	16	30.75	3157.75	10.31
+	"Seminole County, FL"	"12117"	"White"	"2106-3"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	14	29.50	3248.43	6.80
+	"Volusia County, FL"	"12127"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	19	28.84	3357.42	11.16
+	"Unidentified Counties, FL"	"12999"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	38	28.71	3313.43	8.16
+	"Unidentified Counties, FL"	"12999"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	32	28.22	3408.88	9.31
+	"Unidentified Counties, FL"	"12999"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	17	29.00	3266.82	10.59
+	"Unidentified Counties, FL"	"12999"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	15	29.53	3190.93	8.87
+	"Bartow County, GA"	"13015"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	16	27.44	3229.50	10.81
+	"Bibb County, GA"	"13021"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	12	26.42	2859.08	9.08
+	"Chatham County, GA"	"13051"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	15	27.60	2601.40	6.71
+	"Chatham County, GA"	"13051"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	14	27.21	2832.36	7.50
+	"Chatham County, GA"	"13051"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	23	28.87	3152.78	9.35
+	"Chatham County, GA"	"13051"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	12	24.67	2881.67	7.42
+	"Cherokee County, GA"	"13057"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	28	28.04	3301.71	9.79
+	"Cherokee County, GA"	"13057"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	33	29.42	3344.48	8.31
+	"Cherokee County, GA"	"13057"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	12	28.67	3515.42	5.67
+	"Clarke County, GA"	"13059"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	17	30.47	3549.71	11.94
+	"Cobb County, GA"	"13067"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	13	30.38	2683.69	11.77
+	"Cobb County, GA"	"13067"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	10	33.80	2749.80	12.80
+	"Cobb County, GA"	"13067"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	54	29.24	3407.74	11.50
+	"Cobb County, GA"	"13067"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	23	29.35	3245.35	12.13
+	"Cobb County, GA"	"13067"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	10	31.40	3468.30	14.90
+	"Columbia County, GA"	"13073"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	10	31.30	3057.60	13.40
+	"DeKalb County, GA"	"13089"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	15	29.53	3187.20	7.73
+	"DeKalb County, GA"	"13089"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	19	29.58	3129.00	10.05
+	"DeKalb County, GA"	"13089"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	47	32.17	3394.51	13.00
+	"DeKalb County, GA"	"13089"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	15	31.20	3249.00	14.53
+	"Douglas County, GA"	"13097"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	10	27.90	3289.90	11.20
+	"Forsyth County, GA"	"13117"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	13	32.15	3535.85	12.46
+	"Fulton County, GA"	"13121"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	15	33.13	3073.40	12.07
+	"Fulton County, GA"	"13121"	"Black or African American"	"2054-5"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	10	23.60	2727.50	5.50
+	"Fulton County, GA"	"13121"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	27	28.37	2823.59	10.76
+	"Fulton County, GA"	"13121"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	29	29.76	2989.86	9.46
+	"Fulton County, GA"	"13121"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	13	30.15	2667.77	9.46
+	"Fulton County, GA"	"13121"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	64	32.53	3320.16	13.05
+	"Fulton County, GA"	"13121"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	32	30.97	3240.09	12.31
+	"Gwinnett County, GA"	"13135"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	11	33.00	3124.09	11.45
+	"Gwinnett County, GA"	"13135"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	11	29.82	3285.55	10.91
+	"Gwinnett County, GA"	"13135"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	12	29.58	2696.92	8.25
+	"Gwinnett County, GA"	"13135"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	21	31.00	3157.14	11.19
+	"Gwinnett County, GA"	"13135"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	17	29.65	3462.65	12.00
+	"Henry County, GA"	"13151"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	33.00	2970.20	9.80
+	"Muscogee County, GA"	"13215"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	16	26.94	2472.00	10.73
+	"Muscogee County, GA"	"13215"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	16	27.69	3335.94	11.50
+	"Muscogee County, GA"	"13215"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	25.10	3177.50	8.50
+	"Unidentified Counties, GA"	"13999"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	12	29.58	3251.33	10.00
+	"Unidentified Counties, GA"	"13999"	"Black or African American"	"2054-5"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	17	22.59	2714.41	11.50
+	"Unidentified Counties, GA"	"13999"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	86	24.59	2987.09	10.00
+	"Unidentified Counties, GA"	"13999"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	55	25.64	2912.33	9.11
+	"Unidentified Counties, GA"	"13999"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	51	26.86	2827.12	10.82
+	"Unidentified Counties, GA"	"13999"	"Black or African American"	"2054-5"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	24	26.38	3139.09	10.29
+	"Unidentified Counties, GA"	"13999"	"Black or African American"	"2054-5"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	25	26.12	2618.52	9.48
+	"Unidentified Counties, GA"	"13999"	"White"	"2106-3"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	21	24.95	2946.38	10.05
+	"Unidentified Counties, GA"	"13999"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	267	26.87	3273.39	10.91
+	"Unidentified Counties, GA"	"13999"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	187	26.96	3304.61	10.46
+	"Unidentified Counties, GA"	"13999"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	100	27.45	3121.94	10.81
+	"Unidentified Counties, GA"	"13999"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	45	28.82	3206.18	11.00
+	"Unidentified Counties, GA"	"13999"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	28	26.54	3402.07	10.07
+	"Honolulu County, HI"	"15003"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	32	33.91	3387.78	10.10
+	"Honolulu County, HI"	"15003"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	17	33.06	3165.18	12.53
+	"Honolulu County, HI"	"15003"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	31	27.84	3486.48	10.81
+	"Honolulu County, HI"	"15003"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	12	28.17	3118.08	11.42
+	"Honolulu County, HI"	"15003"	"More than one race"	"M"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	16	29.62	3078.25	10.08
+	"Honolulu County, HI"	"15003"	"More than one race"	"M"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	11	30.09	3639.64	9.00
+	"Ada County, ID"	"16001"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	10	32.30	2955.40	14.20
+	"Ada County, ID"	"16001"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	72	30.62	3363.83	11.78
+	"Ada County, ID"	"16001"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	36	30.61	3394.06	12.89
+	"Ada County, ID"	"16001"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	24	28.29	3334.33	12.09
+	"Bonneville County, ID"	"16019"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	19	27.16	3228.89	10.11
+	"Bonneville County, ID"	"16019"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	25	27.00	3270.56	11.20
+	"Canyon County, ID"	"16027"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	22	25.14	3684.95	12.23
+	"Canyon County, ID"	"16027"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	21	30.71	3200.19	12.52
+	"Kootenai County, ID"	"16055"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	21	28.24	3486.19	13.67
+	"Kootenai County, ID"	"16055"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	22	27.86	3337.73	12.95
+	"Unidentified Counties, ID"	"16999"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	159	27.30	3354.19	11.25
+	"Unidentified Counties, ID"	"16999"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	90	27.52	3393.36	11.28
+	"Unidentified Counties, ID"	"16999"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	39	28.41	3300.21	11.21
+	"Unidentified Counties, ID"	"16999"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	17	25.65	3448.88	9.47
+	"Unidentified Counties, ID"	"16999"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	14	27.93	2891.93	10.14
+	"Champaign County, IL"	"17019"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	11	34.18	3332.09	13.36
+	"Champaign County, IL"	"17019"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	17	29.76	3097.71	10.35
+	"Champaign County, IL"	"17019"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	12	29.42	3529.42	11.50
+	"Cook County, IL"	"17031"	"Asian"	"A"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	14	30.79	3440.71	10.62
+	"Cook County, IL"	"17031"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	180	32.55	3182.48	11.26
+	"Cook County, IL"	"17031"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	71	31.70	3101.59	11.17
+	"Cook County, IL"	"17031"	"Asian"	"A"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	18	33.33	3288.67	11.17
+	"Cook County, IL"	"17031"	"Asian"	"A"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	10	30.50	3416.30	11.00
+	"Cook County, IL"	"17031"	"Black or African American"	"2054-5"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	10	21.60	3050.90	10.10
+	"Cook County, IL"	"17031"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	112	25.70	2932.37	8.30
+	"Cook County, IL"	"17031"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	90	29.76	3067.39	8.74
+	"Cook County, IL"	"17031"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	70	29.79	3084.11	10.46
+	"Cook County, IL"	"17031"	"Black or African American"	"2054-5"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	33	29.21	2973.72	9.69
+	"Cook County, IL"	"17031"	"Black or African American"	"2054-5"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"Yes"	"1"	11	33.27	3302.91	8.00
+	"Cook County, IL"	"17031"	"Black or African American"	"2054-5"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	34	30.29	2821.44	7.94
+	"Cook County, IL"	"17031"	"Black or African American"	"2054-5"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	45	29.82	2801.62	5.75
+	"Cook County, IL"	"17031"	"White"	"2106-3"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	19	30.16	3229.37	10.83
+	"Cook County, IL"	"17031"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	535	31.06	3330.76	11.42
+	"Cook County, IL"	"17031"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	326	31.43	3370.13	11.53
+	"Cook County, IL"	"17031"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"Yes"	"1"	15	33.20	2682.60	10.93
+	"Cook County, IL"	"17031"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	155	31.25	3379.18	10.99
+	"Cook County, IL"	"17031"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	53	30.77	3342.81	12.10
+	"Cook County, IL"	"17031"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	24	30.96	3514.67	10.75
+	"Cook County, IL"	"17031"	"White"	"2106-3"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	63	31.54	3319.08	7.38
+	"Cook County, IL"	"17031"	"More than one race"	"M"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	12	30.92	3396.17	9.08
+	"DuPage County, IL"	"17043"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	20	31.40	3106.75	12.40
+	"DuPage County, IL"	"17043"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	31.90	2992.60	12.10
+	"DuPage County, IL"	"17043"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	69	31.62	3441.87	12.26
+	"DuPage County, IL"	"17043"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	33	33.36	3379.88	13.24
+	"DuPage County, IL"	"17043"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	29	31.76	3346.38	10.86
+	"Kane County, IL"	"17089"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	34	28.53	3404.18	12.24
+	"Kane County, IL"	"17089"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	34	32.26	3174.00	12.32
+	"Kane County, IL"	"17089"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	24	31.58	3265.38	12.13
+	"Lake County, IL"	"17097"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	18	34.50	3397.61	13.78
+	"Lake County, IL"	"17097"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	30.80	3759.70	11.90
+	"Lake County, IL"	"17097"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	51	30.76	3333.72	12.35
+	"Lake County, IL"	"17097"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	35	32.46	3162.86	12.09
+	"Lake County, IL"	"17097"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	22	31.64	3615.55	13.23
+	"LaSalle County, IL"	"17099"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	11	28.00	3289.27	11.64
+	"LaSalle County, IL"	"17099"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	32.30	2751.80	9.30
+	"McHenry County, IL"	"17111"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	23	30.70	3259.13	11.57
+	"McHenry County, IL"	"17111"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	17	30.53	3139.94	9.24
+	"McLean County, IL"	"17113"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	10	30.00	3317.60	11.00
+	"McLean County, IL"	"17113"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	31.60	3694.90	11.44
+	"Madison County, IL"	"17119"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	19	27.74	3612.84	10.94
+	"Madison County, IL"	"17119"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	16	30.12	3456.69	12.12
+	"Peoria County, IL"	"17143"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	12	18.67	2945.50	9.67
+	"Peoria County, IL"	"17143"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	24.30	2730.10	10.60
+	"Peoria County, IL"	"17143"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	16	25.69	3511.94	11.19
+	"Peoria County, IL"	"17143"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	21	28.52	3589.90	10.29
+	"Peoria County, IL"	"17143"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	10	30.50	3503.60	10.50
+	"Rock Island County, IL"	"17161"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	13	25.38	2783.46	10.23
+	"Rock Island County, IL"	"17161"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	11	27.91	3203.36	9.73
+	"Rock Island County, IL"	"17161"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	19	26.00	3365.79	12.94
+	"Rock Island County, IL"	"17161"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	15	29.47	3716.07	10.93
+	"St. Clair County, IL"	"17163"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	22	29.73	3299.27	10.48
+	"St. Clair County, IL"	"17163"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	30.70	2978.80	10.60
+	"St. Clair County, IL"	"17163"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	11	31.18	3253.64	11.45
+	"Sangamon County, IL"	"17167"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	31.30	3092.60	9.00
+	"Sangamon County, IL"	"17167"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	31	30.16	3067.26	10.42
+	"Sangamon County, IL"	"17167"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	13	28.38	3348.85	12.08
+	"Sangamon County, IL"	"17167"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	19	30.79	3240.26	12.21
+	"Tazewell County, IL"	"17179"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	18	27.11	3012.06	11.89
+	"Tazewell County, IL"	"17179"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	22	29.59	3242.32	11.09
+	"Will County, IL"	"17197"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	10	29.20	3009.80	12.10
+	"Will County, IL"	"17197"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	52	30.33	3284.27	11.40
+	"Will County, IL"	"17197"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	54	31.33	3234.43	10.13
+	"Will County, IL"	"17197"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	26	30.50	3416.08	10.73
+	"Winnebago County, IL"	"17201"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	11	25.18	2980.36	10.27
+	"Winnebago County, IL"	"17201"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	34	29.15	3230.09	11.82
+	"Winnebago County, IL"	"17201"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	27	30.56	3199.37	11.67
+	"Winnebago County, IL"	"17201"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	22	29.00	3506.18	12.82
+	"Unidentified Counties, IL"	"17999"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	30.60	3193.60	9.50
+	"Unidentified Counties, IL"	"17999"	"White"	"2106-3"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	16	27.12	2954.88	10.75
+	"Unidentified Counties, IL"	"17999"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"Yes"	"1"	10	31.90	2962.10	13.60
+	"Unidentified Counties, IL"	"17999"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	251	27.43	3227.72	10.50
+	"Unidentified Counties, IL"	"17999"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	166	28.14	3258.99	11.04
+	"Unidentified Counties, IL"	"17999"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	105	27.81	3406.31	11.48
+	"Unidentified Counties, IL"	"17999"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	66	28.86	3293.59	11.73
+	"Unidentified Counties, IL"	"17999"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	52	27.88	3245.87	12.48
+	"Unidentified Counties, IL"	"17999"	"White"	"2106-3"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	18	27.00	2927.22	5.41
+	"Allen County, IN"	"18003"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	11	26.09	3229.36	12.82
+	"Allen County, IN"	"18003"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	21	26.57	3507.57	13.10
+	"Allen County, IN"	"18003"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	12	27.08	3411.58	11.75
+	"Allen County, IN"	"18003"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	13	28.77	3323.62	14.31
+	"Clark County, IN"	"18019"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	17	28.12	3327.29	11.06
+	"Elkhart County, IN"	"18039"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	37	25.57	3448.43	11.08
+	"Elkhart County, IN"	"18039"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	23	26.04	3516.30	11.61
+	"Hamilton County, IN"	"18057"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	49	31.47	3488.88	13.14
+	"Hamilton County, IN"	"18057"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	22	28.55	3494.86	14.14
+	"Hendricks County, IN"	"18063"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	18	26.56	3421.39	10.83
+	"Hendricks County, IN"	"18063"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	13	29.00	3446.46	12.85
+	"Johnson County, IN"	"18081"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	19	28.79	3277.95	11.00
+	"Johnson County, IN"	"18081"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	13	29.08	3160.46	11.46
+	"Johnson County, IN"	"18081"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	11	26.45	3408.82	13.82
+	"Johnson County, IN"	"18081"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	10	30.20	2975.10	10.00
+	"Lake County, IN"	"18089"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	16	27.81	3118.00	10.25
+	"Lake County, IN"	"18089"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	11	28.00	3432.00	10.18
+	"Lake County, IN"	"18089"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	34	28.71	3105.88	9.94
+	"Madison County, IN"	"18095"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	14	26.57	3033.57	10.00
+	"Madison County, IN"	"18095"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	12	28.67	3236.58	12.92
+	"Marion County, IN"	"18097"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	30	30.60	3261.53	11.23
+	"Marion County, IN"	"18097"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	43	27.00	3042.67	8.76
+	"Marion County, IN"	"18097"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	37	27.84	2986.08	8.08
+	"Marion County, IN"	"18097"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	19	30.63	2564.89	8.84
+	"Marion County, IN"	"18097"	"Black or African American"	"2054-5"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	18	28.33	2942.56	7.56
+	"Marion County, IN"	"18097"	"White"	"2106-3"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	12	25.58	2838.00	8.33
+	"Marion County, IN"	"18097"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	103	28.10	3472.75	11.02
+	"Marion County, IN"	"18097"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	76	27.71	3446.49	9.09
+	"Marion County, IN"	"18097"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	32	29.44	3223.16	10.25
+	"Marion County, IN"	"18097"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	19	31.63	3298.05	10.32
+	"Marion County, IN"	"18097"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	16	27.19	3244.25	10.81
+	"Porter County, IN"	"18127"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	15	30.20	3153.53	11.00
+	"Porter County, IN"	"18127"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	14	28.14	3475.79	9.86
+	"St. Joseph County, IN"	"18141"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	25	27.80	3411.84	11.64
+	"St. Joseph County, IN"	"18141"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	14	27.14	3377.64	11.43
+	"Vanderburgh County, IN"	"18163"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	30	28.57	3516.10	12.03
+	"Vanderburgh County, IN"	"18163"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	14	28.29	3186.71	11.79
+	"Vigo County, IN"	"18167"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	14	25.50	2924.71	8.93
+	"Unidentified Counties, IN"	"18999"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	17	32.76	3429.29	12.82
+	"Unidentified Counties, IN"	"18999"	"White"	"2106-3"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	32	27.00	3113.84	9.41
+	"Unidentified Counties, IN"	"18999"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	318	26.36	3319.96	11.34
+	"Unidentified Counties, IN"	"18999"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	210	26.62	3367.75	11.80
+	"Unidentified Counties, IN"	"18999"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	126	27.56	3354.93	11.05
+	"Unidentified Counties, IN"	"18999"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	47	28.47	3347.64	12.02
+	"Unidentified Counties, IN"	"18999"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	52	28.02	3470.52	12.48
+	"Black Hawk County, IA"	"19013"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	18	29.44	2872.78	9.44
+	"Black Hawk County, IA"	"19013"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	12	29.75	2188.17	8.42
+	"Johnson County, IA"	"19103"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	13	33.46	3348.62	11.31
+	"Johnson County, IA"	"19103"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	11	30.91	3192.00	8.91
+	"Johnson County, IA"	"19103"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	49	31.80	3401.51	11.14
+	"Johnson County, IA"	"19103"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	23	31.22	3322.91	10.57
+	"Johnson County, IA"	"19103"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	10	30.30	3587.60	9.90
+	"Linn County, IA"	"19113"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	24.90	3428.62	10.10
+	"Linn County, IA"	"19113"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	21	30.57	3360.71	12.14
+	"Linn County, IA"	"19113"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	14	30.64	3275.07	13.79
+	"Polk County, IA"	"19153"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	15	31.40	2914.33	10.40
+	"Polk County, IA"	"19153"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	11	26.09	3526.18	8.55
+	"Polk County, IA"	"19153"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	97	29.25	3402.43	11.22
+	"Polk County, IA"	"19153"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	44	29.55	3391.43	11.25
+	"Polk County, IA"	"19153"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	26	27.27	3314.62	11.27
+	"Polk County, IA"	"19153"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	12	27.33	2950.92	10.00
+	"Polk County, IA"	"19153"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	14	28.43	3208.07	8.14
+	"Scott County, IA"	"19163"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	15	29.80	3512.40	12.27
+	"Scott County, IA"	"19163"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	15	29.60	3186.00	12.80
+	"Woodbury County, IA"	"19193"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	11	29.45	3474.73	13.45
+	"Woodbury County, IA"	"19193"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	11	25.82	3422.27	11.09
+	"Unidentified Counties, IA"	"19999"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	19	32.37	3230.37	11.06
+	"Unidentified Counties, IA"	"19999"	"White"	"2106-3"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	13	25.23	3458.62	9.92
+	"Unidentified Counties, IA"	"19999"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	331	28.37	3372.92	11.38
+	"Unidentified Counties, IA"	"19999"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	241	28.63	3427.89	11.52
+	"Unidentified Counties, IA"	"19999"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	125	29.19	3188.69	10.70
+	"Unidentified Counties, IA"	"19999"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	66	27.48	3265.88	10.95
+	"Unidentified Counties, IA"	"19999"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	52	29.98	3351.40	11.77
+	"Douglas County, KS"	"20045"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	11	30.09	3696.09	12.55
+	"Johnson County, KS"	"20091"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	17	30.82	3231.47	12.24
+	"Johnson County, KS"	"20091"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	44	30.91	3521.64	11.69
+	"Johnson County, KS"	"20091"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	28	30.29	3590.14	11.96
+	"Johnson County, KS"	"20091"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	14	27.57	3216.71	11.15
+	"Sedgwick County, KS"	"20173"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	14	27.93	3540.71	11.64
+	"Unidentified Counties, KS"	"20999"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	11	32.18	3368.36	11.64
+	"Unidentified Counties, KS"	"20999"	"White"	"2106-3"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	17	23.94	3216.71	8.82
+	"Unidentified Counties, KS"	"20999"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	187	26.93	3421.51	11.21
+	"Unidentified Counties, KS"	"20999"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	144	27.69	3386.83	11.29
+	"Unidentified Counties, KS"	"20999"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	77	27.18	3420.90	10.96
+	"Unidentified Counties, KS"	"20999"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	28	26.18	3516.36	11.21
+	"Unidentified Counties, KS"	"20999"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	24	29.88	3355.29	12.78
+	"Boone County, KY"	"21015"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	21	28.67	3293.24	8.95
+	"Fayette County, KY"	"21067"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	17	27.24	2918.65	10.82
+	"Fayette County, KY"	"21067"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	56	30.18	3413.66	12.33
+	"Fayette County, KY"	"21067"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	23	29.91	3414.09	12.17
+	"Jefferson County, KY"	"21111"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	22	31.05	3156.00	11.57
+	"Jefferson County, KY"	"21111"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	27	25.37	3091.37	9.73
+	"Jefferson County, KY"	"21111"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	21	26.81	2409.67	8.52
+	"Jefferson County, KY"	"21111"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	16	26.75	3116.88	9.31
+	"Jefferson County, KY"	"21111"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	65	29.11	3538.98	11.67
+	"Jefferson County, KY"	"21111"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	40	28.70	3238.35	11.21
+	"Jefferson County, KY"	"21111"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	13	30.15	3607.31	13.31
+	"Jefferson County, KY"	"21111"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	12	27.17	3747.83	14.58
+	"Jefferson County, KY"	"21111"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	10	28.00	3615.30	10.30
+	"Kenton County, KY"	"21117"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	27	29.04	3403.33	12.00
+	"Kenton County, KY"	"21117"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	27.50	3460.70	10.10
+	"Unidentified Counties, KY"	"21999"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	15	25.60	2631.00	8.00
+	"Unidentified Counties, KY"	"21999"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	11	27.64	2390.55	10.80
+	"Unidentified Counties, KY"	"21999"	"White"	"2106-3"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	29	24.24	2777.72	9.55
+	"Unidentified Counties, KY"	"21999"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	305	27.07	3245.35	10.67
+	"Unidentified Counties, KY"	"21999"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	168	26.58	3336.92	10.96
+	"Unidentified Counties, KY"	"21999"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	120	27.87	3316.65	11.77
+	"Unidentified Counties, KY"	"21999"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	60	27.38	3111.12	11.03
+	"Unidentified Counties, KY"	"21999"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"Yes"	"1"	15	29.80	2866.00	12.53
+	"Unidentified Counties, KY"	"21999"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	36	28.67	2996.36	11.11
+	"Ascension Parish, LA"	"22005"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	17	28.47	3435.06	11.47
+	"Ascension Parish, LA"	"22005"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	16	30.38	3621.69	12.33
+	"East Baton Rouge Parish, LA"	"22033"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	20	31.15	3136.90	10.35
+	"East Baton Rouge Parish, LA"	"22033"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	39	23.77	2918.41	9.74
+	"East Baton Rouge Parish, LA"	"22033"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	36	27.14	2959.26	9.69
+	"East Baton Rouge Parish, LA"	"22033"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	23	29.43	3034.48	8.65
+	"East Baton Rouge Parish, LA"	"22033"	"Black or African American"	"2054-5"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	11	30.91	2909.27	7.64
+	"East Baton Rouge Parish, LA"	"22033"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	59	29.31	3256.73	10.54
+	"East Baton Rouge Parish, LA"	"22033"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	22	30.32	3488.23	12.00
+	"Jefferson Parish, LA"	"22051"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	12	33.25	2895.00	19.00
+	"Jefferson Parish, LA"	"22051"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	26	25.65	2710.04	11.72
+	"Jefferson Parish, LA"	"22051"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	11	29.91	3199.09	14.55
+	"Jefferson Parish, LA"	"22051"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	11	30.36	2956.82	9.00
+	"Jefferson Parish, LA"	"22051"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	52	29.33	3386.58	13.12
+	"Jefferson Parish, LA"	"22051"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	40	31.10	3315.30	11.82
+	"Jefferson Parish, LA"	"22051"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	27	28.67	3433.11	12.33
+	"Livingston Parish, LA"	"22063"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	23	27.91	3080.00	10.35
+	"Livingston Parish, LA"	"22063"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	12	27.67	3122.75	8.08
+	"Orleans Parish, LA"	"22071"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	32	27.66	2842.59	11.70
+	"Orleans Parish, LA"	"22071"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	22	28.36	2723.18	11.23
+	"Orleans Parish, LA"	"22071"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	15	29.87	2885.80	9.20
+	"Orleans Parish, LA"	"22071"	"Black or African American"	"2054-5"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	10	28.70	2862.00	13.90
+	"Orleans Parish, LA"	"22071"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	53	32.75	3381.60	12.58
+	"Orleans Parish, LA"	"22071"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	14	34.36	3199.14	12.57
+	"St. Tammany Parish, LA"	"22103"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	12	30.58	2880.33	12.67
+	"Unidentified Counties, LA"	"22999"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	48	24.75	2667.50	10.30
+	"Unidentified Counties, LA"	"22999"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	22	23.14	3213.91	9.77
+	"Unidentified Counties, LA"	"22999"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	24	28.17	2856.04	11.45
+	"Unidentified Counties, LA"	"22999"	"Black or African American"	"2054-5"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	21	28.76	2588.70	9.10
+	"Unidentified Counties, LA"	"22999"	"White"	"2106-3"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	13	24.69	2969.85	9.46
+	"Unidentified Counties, LA"	"22999"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	110	26.35	3318.96	11.33
+	"Unidentified Counties, LA"	"22999"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	54	27.85	3031.09	10.22
+	"Unidentified Counties, LA"	"22999"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	23	26.91	2789.83	9.04
+	"Unidentified Counties, LA"	"22999"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	13	27.38	3128.69	8.85
+	"Cumberland County, ME"	"23005"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	18	31.11	3378.00	11.72
+	"Cumberland County, ME"	"23005"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	93	31.75	3499.81	12.34
+	"Cumberland County, ME"	"23005"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	51	30.75	3580.53	12.43
+	"Cumberland County, ME"	"23005"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	20	30.70	3567.50	11.75
+	"Cumberland County, ME"	"23005"	"White"	"2106-3"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	16	31.06	3342.50	10.57
+	"York County, ME"	"23031"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	36	31.11	3291.03	13.17
+	"York County, ME"	"23031"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	27	30.26	3333.69	11.37
+	"York County, ME"	"23031"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	12	28.33	3369.92	11.92
+	"Unidentified Counties, ME"	"23999"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	38	27.76	3448.00	11.42
+	"Unidentified Counties, ME"	"23999"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	29	28.14	3528.90	12.36
+	"Unidentified Counties, ME"	"23999"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	20	29.45	3446.15	13.25
+	"Anne Arundel County, MD"	"24003"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	14	31.57	3404.50	10.46
+	"Anne Arundel County, MD"	"24003"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	12	28.25	2938.75	10.27
+	"Anne Arundel County, MD"	"24003"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	16	31.19	3285.56	9.81
+	"Anne Arundel County, MD"	"24003"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	38	30.42	3183.34	10.03
+	"Anne Arundel County, MD"	"24003"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	27	31.19	3408.33	12.24
+	"Anne Arundel County, MD"	"24003"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	10	30.30	3613.00	14.00
+	"Baltimore County, MD"	"24005"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	39	31.51	3028.72	10.97
+	"Baltimore County, MD"	"24005"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	29.60	3331.00	12.00
+	"Baltimore County, MD"	"24005"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	30	25.77	3199.97	10.83
+	"Baltimore County, MD"	"24005"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	28	29.75	3391.86	12.18
+	"Baltimore County, MD"	"24005"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	71	30.70	3375.68	11.07
+	"Baltimore County, MD"	"24005"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	32	30.19	3506.81	11.45
+	"Baltimore County, MD"	"24005"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	22	29.41	3410.23	10.50
+	"Carroll County, MD"	"24013"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	27	31.37	3542.22	11.44
+	"Carroll County, MD"	"24013"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	23	32.00	3350.91	9.74
+	"Cecil County, MD"	"24015"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	12	25.42	3291.50	11.50
+	"Frederick County, MD"	"24021"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	26	31.08	3551.77	11.27
+	"Frederick County, MD"	"24021"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	11	30.82	3127.27	8.55
+	"Harford County, MD"	"24025"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	24	29.29	3672.00	12.42
+	"Harford County, MD"	"24025"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	13	30.77	3620.77	12.38
+	"Howard County, MD"	"24027"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	41	31.32	3333.05	11.07
+	"Howard County, MD"	"24027"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	11	31.91	3384.18	13.22
+	"Howard County, MD"	"24027"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	12	33.17	2821.67	9.80
+	"Howard County, MD"	"24027"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	48	31.23	3397.88	11.96
+	"Howard County, MD"	"24027"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	33.00	3465.00	13.30
+	"Montgomery County, MD"	"24031"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	34	33.12	3232.85	11.42
+	"Montgomery County, MD"	"24031"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	10	31.20	3372.40	12.22
+	"Montgomery County, MD"	"24031"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	23	32.00	2983.87	10.74
+	"Montgomery County, MD"	"24031"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	31	31.84	3166.13	10.79
+	"Montgomery County, MD"	"24031"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	83	33.04	3138.90	11.10
+	"Montgomery County, MD"	"24031"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	35	32.29	3325.06	10.48
+	"Montgomery County, MD"	"24031"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	19	30.21	3405.79	10.75
+	"Montgomery County, MD"	"24031"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	10	29.60	3584.80	11.00
+	"Prince George's County, MD"	"24033"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	35	28.37	3024.69	10.61
+	"Prince George's County, MD"	"24033"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	50	32.36	3200.98	9.40
+	"Prince George's County, MD"	"24033"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	13	34.00	2836.85	10.38
+	"Prince George's County, MD"	"24033"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	40	28.32	3317.88	9.54
+	"Prince George's County, MD"	"24033"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	38	30.50	3202.89	8.51
+	"Prince George's County, MD"	"24033"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	13	31.08	3386.77	8.90
+	"St. Mary's County, MD"	"24037"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	10	32.40	3508.50	11.50
+	"Washington County, MD"	"24043"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	16	29.50	2951.19	9.62
+	"Baltimore city, MD"	"24510"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	24	32.25	3384.38	12.39
+	"Baltimore city, MD"	"24510"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	41	26.37	2687.15	7.54
+	"Baltimore city, MD"	"24510"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	31	27.61	3229.16	9.66
+	"Baltimore city, MD"	"24510"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	23	30.70	2945.57	10.18
+	"Baltimore city, MD"	"24510"	"Black or African American"	"2054-5"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	12	30.33	2762.50	8.78
+	"Baltimore city, MD"	"24510"	"Black or African American"	"2054-5"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	12	28.75	3247.50	6.58
+	"Baltimore city, MD"	"24510"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	74	30.73	3313.15	10.71
+	"Baltimore city, MD"	"24510"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	23	30.35	3309.35	10.26
+	"Unidentified Counties, MD"	"24999"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	40	27.52	3238.43	10.55
+	"Unidentified Counties, MD"	"24999"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	30	28.70	3320.50	10.87
+	"Unidentified Counties, MD"	"24999"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	21	26.29	3287.43	10.76
+	"Unidentified Counties, MD"	"24999"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	10	30.20	3248.70	10.80
+	"Berkshire County, MA"	"25003"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	14	31.93	3442.07	12.86
+	"Bristol County, MA"	"25005"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	39	30.08	3520.13	11.90
+	"Bristol County, MA"	"25005"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	27	31.59	3269.70	11.12
+	"Bristol County, MA"	"25005"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	14	30.57	3382.64	12.50
+	"Essex County, MA"	"25009"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	11	29.64	2909.89	8.27
+	"Essex County, MA"	"25009"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	84	31.25	3349.07	10.98
+	"Essex County, MA"	"25009"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	60	29.92	3340.33	10.53
+	"Essex County, MA"	"25009"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	19	32.84	3293.78	9.84
+	"Essex County, MA"	"25009"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	12	31.00	3095.08	10.08
+	"Hampden County, MA"	"25013"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	57	28.77	3289.86	10.30
+	"Hampden County, MA"	"25013"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	53	27.40	3391.79	11.09
+	"Hampden County, MA"	"25013"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	30	27.23	3309.23	9.86
+	"Hampshire County, MA"	"25015"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	13	34.92	3150.00	10.38
+	"Middlesex County, MA"	"25017"	"Asian"	"A"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	14	31.07	3097.00	10.29
+	"Middlesex County, MA"	"25017"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	108	33.00	3308.61	10.89
+	"Middlesex County, MA"	"25017"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	38	32.42	3175.11	11.73
+	"Middlesex County, MA"	"25017"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	21	31.14	2751.33	8.19
+	"Middlesex County, MA"	"25017"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	16	29.94	3516.88	10.81
+	"Middlesex County, MA"	"25017"	"White"	"2106-3"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	18	32.61	3468.50	11.94
+	"Middlesex County, MA"	"25017"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	176	33.18	3377.97	10.67
+	"Middlesex County, MA"	"25017"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	103	32.23	3288.61	11.36
+	"Middlesex County, MA"	"25017"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	39	32.33	3271.59	10.97
+	"Middlesex County, MA"	"25017"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	16	33.12	3383.25	12.47
+	"Middlesex County, MA"	"25017"	"More than one race"	"M"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	14	28.64	3181.43	11.36
+	"Norfolk County, MA"	"25021"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	44	32.05	3258.68	11.26
+	"Norfolk County, MA"	"25021"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	12	32.42	3328.25	10.64
+	"Norfolk County, MA"	"25021"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	100	32.60	3488.21	11.39
+	"Norfolk County, MA"	"25021"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	36	32.64	3388.14	11.19
+	"Norfolk County, MA"	"25021"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	20	33.25	3597.45	12.70
+	"Plymouth County, MA"	"25023"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	62	32.15	3452.47	12.34
+	"Plymouth County, MA"	"25023"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	25	31.04	3435.72	12.52
+	"Suffolk County, MA"	"25025"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	38	31.95	3334.82	12.13
+	"Suffolk County, MA"	"25025"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	35	28.03	3066.85	9.60
+	"Suffolk County, MA"	"25025"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	21	30.81	3110.24	10.52
+	"Suffolk County, MA"	"25025"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	11	29.09	3035.91	10.45
+	"Suffolk County, MA"	"25025"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	140	31.65	3433.41	10.06
+	"Suffolk County, MA"	"25025"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	64	32.00	3536.17	9.64
+	"Suffolk County, MA"	"25025"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	14	29.79	3043.43	10.07
+	"Worcester County, MA"	"25027"	"Asian"	"A"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	45	31.87	3298.93	10.98
+	"Worcester County, MA"	"25027"	"Asian"	"A"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	18	31.11	3413.61	12.11
+	"Worcester County, MA"	"25027"	"Black or African American"	"2054-5"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	21	30.14	2946.76	9.57
+	"Worcester County, MA"	"25027"	"Black or African American"	"2054-5"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	22	32.23	3015.23	10.27
+	"Worcester County, MA"	"25027"	"Black or African American"	"2054-5"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	10	29.20	3208.40	10.70
+	"Worcester County, MA"	"25027"	"White"	"2106-3"	"Underweight <18.5"	"1"	"No"	"2"	"No"	"2"	17	27.59	3159.88	10.41
+	"Worcester County, MA"	"25027"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	165	30.30	3294.30	11.10
+	"Worcester County, MA"	"25027"	"White"	"2106-3"	"Overweight 25.0-29.9"	"3"	"No"	"2"	"No"	"2"	95	30.15	3433.15	11.21
+	"Worcester County, MA"	"25027"	"White"	"2106-3"	"Obesity I 30.0-34.9"	"4"	"No"	"2"	"No"	"2"	44	31.02	3266.14	11.05
+	"Worcester County, MA"	"25027"	"White"	"2106-3"	"Obesity II 35.0-39.9"	"5"	"No"	"2"	"No"	"2"	18	31.22	3347.00	10.78
+	"Worcester County, MA"	"25027"	"White"	"2106-3"	"Extreme Obesity III > 39.9"	"6"	"No"	"2"	"No"	"2"	16	32.56	3228.44	12.25
+	"Worcester County, MA"	"25027"	"White"	"2106-3"	"Unknown or Not Stated"	"9"	"No"	"2"	"No"	"2"	11	28.27	3153.73	6.09
+	"Unidentified Counties, MA"	"25999"	"White"	"2106-3"	"Normal 18.5-24.9"	"2"	"No"	"2"	"No"	"2"	11	33.27	3227.36	9.45
+"---"
+"Dataset: Natality, 2016-2023 expanded"
+"Query Parameters:"
+"Title: 01 - Preconditions & Race Impact - 1-25 S/County (20/21) (MM-Yes)"
+"Maternal Morbidity Checked: At least one checked"
+"States: Alabama (01); Alaska (02); Arizona (04); Arkansas (05); California (06); Colorado (08); Connecticut (09); Delaware (10);"
+"District of Columbia (11); Florida (12); Georgia (13); Hawaii (15); Idaho (16); Illinois (17); Indiana (18); Iowa (19); Kansas"
+"(20); Kentucky (21); Louisiana (22); Maine (23); Maryland (24); Massachusetts (25)"
+"Year: 2020; 2021"
+"Group By: County of Residence; Mother's Single Race 6; Mother's Pre-pregnancy BMI; Pre-pregnancy Diabetes; Pre-pregnancy"
+"Hypertension"
+"Show Totals: Disabled"
+"Show Zero Values: Disabled"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality-expanded.html for more information."
+"---"
+"Query Date: Nov 5, 2024 12:15:16 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2016-2023, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-expanded-current.html on Nov 5, 2024 12:15:16 AM"
+"---"
+Messages:
+"1. The full results are too long to be displayed. Due to suppression constraints rows that are zero, suppressed or a total will"
+"not be available."
+"---"
+Caveats:
+"1. Each birth record represents one liveborn infant."
+"2. County-level data are shown only for counties with populations of 100,000 persons or more. Within each state, data for all"
+"counties with fewer than 100,000 persons are combined together under the label ""Unidentified Counties."""
+"3. Caution should be used when interpreting the Average Age of Mother measure. All ages 12 years and less are coded to 12 years."
+"All ages 50 years and over are coded to 50 years. The number of counts in those two age goups are small and should not have a"
+"great effect on the average age. Consider doing queries with and without these two age groups and compare the effect on Average"
+"Age of Mother measure."
+"4. Records where the ""Birth Weight"" is ""Unknown or Not Stated"" are not included in the calculation of the ""Average Birth"
+"Weight"" measure."
+"5. Records where the ""Number of Prenatal Visits"" is ""Unknown or Not Stated"" are not included in the calculation of the"
+"""Average Number of Prenatal Visits"" measure."
+"6. The independent city of Baltimore, Maryland (FIPS code 24510) is reported separately from Baltimore County (FIPS code 24005)."
